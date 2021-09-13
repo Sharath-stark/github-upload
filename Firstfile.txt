@@ -1,1 +1,2 @@
-This is  the first my first file
+This is  the is my first file
+Hello my name is gitti and git is my friendgit 
